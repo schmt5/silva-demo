@@ -19,7 +19,7 @@
 
 #niculin-iframe[data-open="true"] {
     height: 480px;
-    width: min(420px, 80dvw);
+    width: min(576px, 80dvw);
 }
 
 #niculin-iframe-toggle-btn {
