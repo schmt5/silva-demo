@@ -10,7 +10,7 @@
     position: fixed;
     bottom: 102px;
     left: 32px;
-    max-width: min(480px, 80dvw);
+    max-width: min(576px, 80dvw);
     background-color: transparent;
     box-shadow:
         0 20px 25px -5px rgb(0 0 0 / 0.1),
@@ -19,7 +19,7 @@
 
 #niculin-iframe[data-open="true"] {
     height: 480px;
-    width: min(576px, 80dvw);
+    width: 100%;
 }
 
 #niculin-iframe-toggle-btn {
